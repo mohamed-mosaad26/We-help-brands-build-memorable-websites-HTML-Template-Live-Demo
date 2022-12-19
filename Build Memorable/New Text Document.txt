@@ -1,0 +1,22 @@
+title : We help brands build memorable websites HTML Template Live Demo.
+____________________________________________
+Yellow Color : #fac23d
+Black Color :#111111
+Gary Color : #e5e5e5
+_____________________________________________
+<i class="fa-solid fa-masks-theater"></i>
+<i class="fa-solid fa-palette"></i>
+<i class="fa-duotone fa-microphone-stand"></i>
+<i class="fa-solid fa-code"></i>
+<i class="fa-light fa-share-nodes"></i>
+<i class="fa-regular fa-credit-card"></i>
+___________________________________________
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Spray+Paint&display=swap');
+font-family: 'Rubik Spray Paint', cursive;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+font-family: 'Roboto', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+font-family: 'Merriweather', serif;
+____________________________________________
+<link rel="icon" href="icon_path" type="image/icon type">
+
